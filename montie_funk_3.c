@@ -1,4 +1,4 @@
-#include "montie.h"
+#include "monty.h"
 
 void montie_nop(stack_t **stack, unsigned int line_number);
 void montie_pchar(stack_t **stack, unsigned int line_number);
